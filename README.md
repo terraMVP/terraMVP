@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @terraMVP
-- 👀 I’m interested in helping all new projects being built on Terra. 
+- 👀 I’m interested in helping all projects build on Terra. 
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on getting your project to testnet.
 - 📫 Feel free to DM me on twitter @mikevp 
